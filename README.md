@@ -1,22 +1,45 @@
-# Viaje Montserrat–Priorat · 23–27 ago 2026
+# Viaje Gabi + Julio · Montserrat → Priorat · **23–27 ago 2026**
 
-**Salida** dom 23 ~10:00 · **Valencia** jue 27 ~22:00
+Empezad por aquí. En GitHub: clic en cada enlace (se abren en el navegador).
 
-| Día | Eje | Noche |
+## Cómo leerlo
+
+1. **Días fijos BCN** → planes 23 y 24 (cerrados).  
+2. **Desde el lun ~16:15** → carpeta [opciones/](opciones/) (elegís zona según calor / ganas).  
+3. En calor: **agua · piscina · fresco bajo techo** antes que senderos largos.
+
+---
+
+## Plan cerrado · Barcelona
+
+| Día | Qué | Abrir |
 |-----|-----|-------|
-| Dom 23 | Fai → Pedralbes → cena 19:00 → Gaixample | Room Mate Carla (BSM) |
-| Lun 24 | Pabellons *opc.* → Sagrada 12:15 → Siurana | **Camping Siurana** |
-| Mar 25 | Sant Benet → cascada → **Masroig 16:00** | Camping Siurana |
-| Mié 26 | Toll mañana → **Cartuja** → Vilella Baixa *opc.* | Camping Siurana ★ |
-| Jue 27 | Miravet → Valencia | — |
+| **Dom 23** | Fai → Pedralbes → Gaixample · cama 01:30 | [plan-dia-23-barcelona.md](plan-dia-23-barcelona.md) ★ |
+| **Lun 24** | Mañana a la carta → Sagrada 12:15 → coche | [plan-dia-24-barcelona.md](plan-dia-24-barcelona.md) ★ |
 
-**Alojamiento lun–mié:** Camping Siurana — bungalow **55–75 €**/noche · campingsiurana8@gmail.com · 636 052 736  
-⚠️ Balcó del Priorat **cerrado** (2026).
+**Hotel:** Room Mate Carla · consigna ✅ · coche etiqueta **B** ✅  
+**Parking noche:** [NN Bruc 113](plan-dia-23-barcelona.md) · **22 €/24 h** (convenio hotel)
 
-**Reservas:** Fai dom · **Room Mate Carla dom ✅** (173,28 €) · Sagrada lun ✅ · Siurana 24–26 · Sant Benet mar 25 · Masroig mar 25 16:00
+---
 
-Detalle general del viaje: **[itinerario-completo.md](itinerario-completo.md)**
+## Opciones · tras Sagrada *(mar–mié)*
 
-**Domingo 23** (cronograma completo): **[plan-dia-23-barcelona.md](plan-dia-23-barcelona.md)**
+Índice con reglas de calor → **[opciones/README.md](opciones/README.md)**
 
-**Lunes 24** (cronograma completo): **[plan-dia-24-barcelona.md](plan-dia-24-barcelona.md)**
+| Zona | Qué hay | Abrir |
+|------|---------|-------|
+| Siurana | Kayak pantano · piscina · toll corto · pueblo | [opciones/siurana.md](opciones/siurana.md) |
+| Priorat | Cartuja · minas 16 °C · catas · A/C | [opciones/priorat.md](opciones/priorat.md) |
+| Montblanc / Espluga / Poblet | Cascada · murallas · monasterio · cueva | [opciones/montblanc-bages.md](opciones/montblanc-bages.md) |
+| **Delta Ebre** ★ | Playas · Trabucador · flamencos · dormir + comer | [opciones/ebre-tarragona.md](opciones/ebre-tarragona.md) |
+| Teruel Albarracín | Hoz / Ebrón cortos · pueblo | [opciones/teruel-albarracin.md](opciones/teruel-albarracin.md) |
+| Teruel Maestrazgo | Pasarelas Valloré cortas | [opciones/teruel-maestrazgo.md](opciones/teruel-maestrazgo.md) |
+| Altea – Calpe | Kayak Coloms + Ifach *(otro viaje)* | [opciones/costa-blanca-altea-calpe.md](opciones/costa-blanca-altea-calpe.md) |
+| Jávea – Dénia | Kayak Peces + Portitxol *(otro viaje)* | [opciones/costa-blanca-javea.md](opciones/costa-blanca-javea.md) |
+| Comida / nevera | Super · tupper · sombra vs bar | [opciones/logistica-comida-nevera.md](opciones/logistica-comida-nevera.md) |
+
+---
+
+## Repo
+
+[github.com/gabyballester/montse2026](https://github.com/gabyballester/montse2026)

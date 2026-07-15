@@ -1,24 +1,36 @@
 # Plan Día 23 · Montserrat → Barcelona (Gaixample)
 
 **Fecha:** domingo 23/08/2026  
-**Hotel:** Room Mate Carla — reserva confirmada *(ver bloque abajo)*  
-**Parking:** BSM Sant Genís – Vall d'Hebron (`Pg. Vall d'Hebron 138`, 24 h)  
-**Estilo noche:** música, drag, pista pop — bear solo si compensa (Bacon) · **sin reggaetón**  
-**Cama objetivo:** de 01:00 a 01:15  
-**Gaixample:** ~12 min **a pie** desde el hotel (no hace falta metro de ida)
+**Hotel:** Room Mate Carla (`Mallorca 288`) — reserva confirmada  
+**Parking noche:** **NN Bruc** (`Bruc 113`) — convenio hotel · **22 € / 24 h** · **~2 min a pie** ✅  
+**Estilo noche:** pubs / barra · bear / temático · **sin discotecas de pago**  
+**Noche:** **modo A** ✅ — llegada hotel **máx. 01:30** → ~8 h sueño · lun más descansados (día largo)  
+**Gaixample:** ~10–12 min a pie del hotel
+
+### Glosario
+
+| Sigla | Qué es |
+|-------|--------|
+| **BSM** | Barcelona Serveis Municipals — parkings públicos vigilados |
+| **Fai** | Sant Miquel del Fai |
+| **T-casual** | Tarjeta metro/bus · **10 viajes** · zona 1 · ~13 € |
+| **Gaixample** | Zona LGBTQ+ Eixample |
+| **ZBE** | Zona Bajas Emisiones · **dom no aplica** · lun–vie 7–20 h · **etiqueta B = OK** |
+| **Convenio Bruc** | Parking **NN Bruc** (`Bruc 113`) · tarifa huésped Carla · selláis ticket en recepción |
+| **Bar hopping** | Ir de bar en bar de pie |
 
 ### Vista rápida
 
 | Hora | Qué |
 |------|-----|
 | 10:00 | Salida Montserrat |
-| 11:00–14:15 | **Fai** (reserva 12:00–14:00) |
-| 15:05 | Aparcar **BSM** + T-casual |
-| 15:50 | Check-in **Room Mate Carla** |
-| 16:25–18:15 | **Monestir Pedralbes** (gratis, sin reserva) |
-| 19:00 | Cena rápida |
-| 19:45–00:45 | **Gaixample** (Priscilla / Punto BCN) |
-| 01:15 | Cama |
+| 11:00–~14:15 | **Fai** + **comida** (picnic / almuerzo) |
+| ~14:30 | Salida Fai → Pedralbes |
+| ~15:30–17:30 | **Monestir** + fotos **Pabellons** (exterior) |
+| ~17:45 | Coche → **NN Bruc** (noche · 22 € / 24 h) |
+| ~18:15 | Check-in hotel + ducha *(~2 min desde Bruc)* |
+| ~19:15 | **Ruta Gaixample** (modo A) |
+| **01:30** | Cama → despertar lun **~09:30** · checkout **~10:00** |
 
 ---
 
@@ -26,265 +38,214 @@
 
 | | |
 |---|---|
-| **Alojamiento** | Room Mate Carla, Barcelona |
-| **Dirección** | `Mallorca 288`, Eixample, **08037** Barcelona |
-| **Entrada** | **Dom 23/08/2026** · desde **15:00** |
-| **Salida** | **Lun 24/08/2026** · **de 7:00 a 12:00** |
-| **Habitación** | Doble · **1 cama doble** · sin desayuno · WiFi gratis |
-| **Huéspedes** | 2 adultos |
-| **Valoración** | **8,8** / 10 (3715 reseñas) · ubicación **9,5** |
+| **Dirección** | `Mallorca 288`, 08037 |
+| **Entrada dom 23** | desde **15:00** |
+| **Salida lun 24** | **07:00 – 12:00** *(checkout cómodo ~10:00 tras modo A)* |
+| **Total** | **173,28 €** pareja · pago en hotel |
+| **Consigna lun 24** | ✅ **Confirmada** — maletas todo el día tras checkout |
 
-### Precio (Booking · Genius)
+**En recepción dom:** pagar 173,28 € · **sello parking Bruc** · llegada prevista ~**18:15**.
 
-| Concepto | Importe |
-|----------|---------|
-| Precio original | 190,48 € |
-| Descuento Genius (−9 %) | −17,20 € |
-| **Total pareja** | **173,28 €** |
-| **Por persona** | **86,64 €** |
-| Impuestos incluidos | 32,55 € *(IVA 14,07 € + impuesto municipal 18,48 €)* |
-
-### Condiciones
+### Sueño → checkout lun *(objetivo ~8 h · modo A)*
 
 | | |
 |---|---|
-| **Cancelación** | Gratis hasta **21/08/2026 23:59** *(Booking también indica antes del 22/08)* |
-| **Penalización** | 154,80 € si canceláis tarde |
-| **Pago** | **En el alojamiento** al hacer check-in *(opción elegida: sin cargo anticipado)* |
-| **Canal** | Reserva directa con el hotel vía Booking.com |
+| **Cama** | **01:30** (máximo) |
+| **Despertar** | **~09:30** |
+| **Checkout** | **~09:45–10:30** |
+| **Mañana lun** | Bloque + Sagrada 12:15 → [día 24](plan-dia-24-barcelona.md) |
 
-**Encaje con el plan:** check-in oficial desde **15:00** → llegada estimada **~15:50** tras BSM + metro encaja. Lunes check-out antes de **12:00** → salida ~08:00–08:45 *(detalle lun 24 en [plan-dia-24-barcelona.md](plan-dia-24-barcelona.md))*.
-
-**En recepción:** avisad llegada ~16:00; **confirmad consigna para lun 24**; pagad **173,28 €** en check-in.
+→ No hace falta checkout a las 7:30. Con 8 h desde 01:30 despertáis ~09:30 y tenéis margen hasta las **12:00**.
 
 ---
 
-## 10:00 — Salida Montserrat
+## Logística coche ★
 
-Coche con mochila (**agua, crema solar, almuerzo Fai**). Maleta en maletero hasta BSM.
-
-**En el momento:** si retrasáis salida, acortad tiempo en Fai, no la noche.
-
----
-
-## 11:00 a 14:15 — Sant Miquel del Fai
-
-Reserva franja **12:00 a 14:00** + parking QR · [parcs.diba.cat](https://parcs.diba.cat)
-
-- 11:00 llegada
-- 12:00 a 14:00 visita
-- **Almuerzo ligero** 🎒
-- 14:15 salida
-
-Guardad **captura del QR offline** (cobertura irregular en la zona).
-
-**En el momento:** en agosto la cascada puede ir floja; el paseo y la abadía compensan.
-
----
-
-## 14:15 a 15:05 — Coche Fai → BSM
-
-~50 min. Último tramo en coche del día.
-
----
-
-## 15:05 a 15:20 — Aparcar BSM
-
-Aparcar en **BSM Sant Genís – Vall d'Hebron** (no Basic Park).
-
-Sacad maleta + mochila para hotel. Resto en maletero hasta lunes.
-
-**Foto del sitio** (planta/zona/número de plaza) para encontrar el coche el lunes ~16:00.
-
-⚠️ **Ticket 24 h:** aparcado ~15:05 dom → límite teórico **lun ~15:05**. Salida prevista lun **~16:15** → posible **suplemento** al retirar el coche (ver [día 24](plan-dia-24-barcelona.md)).
-
-Caminad 3 min a metro **Vall d'Hebron** (L3). Comprad **2 × T-casual** (13 €/persona).
-
----
-
-## 15:20 a 15:50 — Metro BSM → hotel
+### Parking noche · **NN Bruc** ✅
 
 | | |
 |---|---|
-| **Origen** | Vall d'Hebron |
-| **Línea** | L3 (verde) |
-| **Dirección** | Trinitat Nova |
-| **Destino** | Passeig de Gràcia |
-| **Tiempo** | ~20 min |
+| **Dirección** | `Bruc 113` |
+| **Al hotel** | **~100 m · ~1–2 min a pie** |
+| **24 h** | **22 €** huésped Carla *(email hotel)* |
+| **Cómo** | Ticket → **sello en recepción** Carla · foto plaza |
+| **Altura máx.** | ~**2,0 m** *(comprobar Focus)* |
 
-8 min a pie → Room Mate Carla (`Mallorca 288`).
+Elegido por cercanía (maletas). Plan B solo si no admiten altura: BSM Mallorca 425 (~21 € · ~12 min hotel).
 
-**Metro más cercano al hotel:** **Passeig de Gràcia** (L3/L2/L4) — ~8 min a pie; usad este para Pedralbes y el lun 24.
-
-## 15:50 a 16:20 — Check-in (antes de Pedralbes)
-
-Dejad maletas en habitación o consigna. Sin cargar equipaje a Pedralbes.
-
-**En el momento:** si habitación no lista → consigna recepción y seguid. Avisad recepción si llegáis **después de las 16:00** (check-in tardío).
-
----
-
-## 16:25 a 18:15 — Pedralbes (sin maletas)
-
-**Metro ida**
+### ZBE · Focus
 
 | | |
 |---|---|
-| **Origen** | Passeig de Gràcia |
-| **Línea** | L3 |
-| **Dirección** | Zona Universitària |
-| **Destino** | Palau Reial |
-| **Tiempo** | ~12 min |
+| **Matrícula** | 7418HXX · Focus 2014 diésel |
+| **Etiqueta** | ✅ **B (amarilla)** · pegada |
+| **Domingo 23** | ZBE **no aplica** → circular OK (Fai, Pedralbes, Bruc) |
+| **Lunes 24** | ZBE 7–20 h · con **B** → circular OK (hotel, Sagrada, salida ~16:15) |
 
-10 min a pie → Monestir (`Baixada del Monestir 9`).
+**Conductor:** cero alcohol al volante (noche → coche en Bruc).
 
-- ~16:45 a 18:10 visita (domingo: **gratis desde 15:00**, cierra 20:00, **último acceso ~19:00**)
+### Flujo del día
 
-### Reserva Monestir de Pedralbes
+```
+Fai (+ comida) → BSM Mulhacén (Pedralbes)
+    → NN Bruc 113 (noche · 22 € · ~17:45–18:00)
+    → 2 min a pie con maletas → hotel
+    → Gaixample a pie
+```
 
-| Tipo visita | ¿Reserva? | Cómo |
-|-------------|-----------|------|
-| **Visita libre** *(vuestro caso dom 23)* | **No obligatoria** | Taquilla al llegar · dom ≥15:00 **gratis** |
-| Entrada online | Opcional | Web a menudo **sin venta online** para visita libre — no contéis con ello |
-| Visita guiada / actividad agenda | **Sí, obligatoria** | reservesmonestirpedralbes@bcn.cat · **932 563 427** (lun–vie 10:00–14:00) |
-| Grupos (+10 pax) | **Sí** | Mín. **2 semanas** antes · mismo contacto |
+| Paso | Dónde | Notas |
+|------|-------|-------|
+| 1 | Fai → Pedralbes | ~55–70 min |
+| 2 | **BSM Marquès de Mulhacén** | `Mulhacén 53` · ~3,90 €/h · **~8–12 €** |
+| 3 | → **NN Bruc 113** | ticket · sello recepción · foto plaza |
+| 4 | A pie → hotel | **~2 min** con maletas |
 
-**Dom 23:** id directo a taquilla desde las 15:00 — **0 €**, sin cita previa.
+**Sin aparcar en calle** en Pedralbes. Solo parking público.
 
-**Metro vuelta**
+### ¿T-casual?
+
+Domingo: **0** metros (coche + Gaixample a pie). Lunes: billetes sueltos o 1 T-casual si hacéis Sant Pau/metro.
+
+---
+
+## 10:00 — Salida Montserrat ★ *(comida Fai)*
+
+**Antes de salir** (o en la parada de camino): preparad / comprad el **picnic-almuerzo de Fai**.  
+No lo dejéis para Pedralbes ni para la noche.
+
+| Checklist salida | |
+|------------------|---|
+| Picnic Fai | Bocatas · fruta · agua · snacks *(nevera/bolsa si hace calor)* |
+| Mochila | Agua · crema · tickets Fai impresos |
+| Maletero | Maletas |
+
+Trayecto Montserrat → Fai: ~**45–60 min**.
+
+---
+
+## 11:00 a ~14:15 — Sant Miquel del Fai ★ + comida
 
 | | |
 |---|---|
-| **Origen** | Palau Reial |
-| **Línea** | L3 |
-| **Dirección** | Trinitat Nova |
-| **Destino** | Passeig de Gràcia |
-| **Tiempo** | ~12 min |
+| **Tickets** | ✅ **Impresos** · franja **12:00–14:00** + QR parking |
+| **Maps** | [Sant Miquel del Fai](https://maps.app.goo.gl/KZjuGZeA7YhabrYu8) |
+| **Llegar** | ~**11:30–11:45** (parking + entrada) |
+| **Comida** | **~13:00–14:00** dentro/salida del parque *(picnic)* |
+| **Salida práctica** | ~**14:15–14:30** → Pedralbes **≥15:30** |
 
-**En el momento:** tarde justa si el hotel tarda — visita corta 1 h (solo claustro + jardín).
+**Almuerzo (importante):** no dejéis el estómago vacío hasta la noche. Opciones:
 
----
+1. **★ Picnic en Fai** — bocatas / fruta / nevera pequeña · comer hacia las **13:00–14:00** (sombra si hay)  
+2. Si no llevasteis nada: parada rápida **antes** de Pedralbes (panadería / bar de carretera) ~15–20 min · no apurarías monestir  
 
-## 18:20 a 18:50 — Hotel: ducha y cambio
+**Qué ver:**
 
-Descanso 15 min. Salida hacia cena/Gaixample **de 18:50 a 19:00**.
+- **Salt del Tenes / Rossinyol** — por detrás de la cascada *(si hay agua)*  
+- **Cuevas** Sant Miquel (iluminada) y Les Toscues  
+- **Llac de les Monges**  
+- Iglesia románica **dentro de cueva** · Casa Prioral · Ermita Sant Martí  
 
----
-
-## 19:00 a 19:40 — Cena rápida (antes de la noche)
-
-Cenad **antes** de los bares para no cortar la música en la hora punta.
-
-Elegid **una** (zona Universitat, ~8 min a pie desde hotel):
-
-1. **TGB** — `Ronda Universitat 13-15` (burger, de 11:00 a 23:00 aprox.)
-2. **Aloha Poke** — `Ronda Universitat 7` (poke, de 11:30 a 23:00)
-3. **Burritos & Poke** — `Ronda Universitat 3` (de 10:30 a 23:00)
-
-**Plan B:** bocata en mochila + solo copa en bar.
-
-~10–15 €/persona.
+**Realidad:** en sequía cascadas pueden ir secas · viento fuerte → posibles cancelaciones.
 
 ---
 
-## 19:45 a 00:45 — Noche Gaixample (música + sin reggaetón)
+## ~15:30 a 17:30 — Pedralbes ★ *(solo domingo)*
 
-**Criterio:** priorizad **pista, DJ, drag o ambiente bailable**. Bares de charla solo si compensan (Priscilla sí; HBB/Honey solo 1 copa de calentamiento).
+| | |
+|---|---|
+| **Parking** | **BSM Marquès de Mulhacén** · `Mulhacén 53` · ~3,90 €/h · **~8–12 €** |
+| **Monestir** | `Baixada del Monestir 9` · [maps](https://maps.app.goo.gl/WQkd3UTofKQiGeAY7) |
+| **Entrada dom** | Desde **15:00: GRATIS** · taquilla · sin reserva · cierra **20:00** |
+| **Tiempo** | ~**1 h 15 – 1 h 30** + **15 min** fotos exterior |
 
-**Evitar:** Moeem, Arena, Believe Club (reggaetón/circuit o demasiado tarde para cama 01:15). **D'Men's cerrado los domingos** (solo vie/sáb de 22:00 a 03:00).
+**Qué ver:** claustro gótico 3 plantas · Capella Sant Miquel (frescos Ferrer Bassa) · sepulcro Elisenda · dormitorio-museo · huerto.
 
-**Transporte:** ida y vuelta **a pie** (~12 min hotel ↔ Consell de Cent / Muntaner).
+### Pabellons Güell *(solo exterior)*
 
----
+`Av. Pedralbes 7` · ~10 min a pie. Interior cerrado por obras · fotos **verja del Dragón**.
 
-### 19:45 a 20:15 — Calentamiento opcional (solo si compensa)
-
-**Ir directo a Priscilla** si queréis maximizar música.
-
-Si no, **1 copa rápida** en:
-
-| Local | Música | Cuándo merece la pena |
-|-------|--------|------------------------|
-| **Bacon Bear Bar** | Pop 80s/90s, pista pequeña si se llena | Promos domingo de 18:00 a 22:00 |
-| Honey Bears | Pop/clásicos bear | Solo si ya hay rollo; si está vacío, saltad |
-
-**No recomendado como plan principal:** HBB (terraza y charla, casi sin pista).
+→ Pedralbes = **domingo**. Lunes: Sagrada + **mañana a la carta** *(despertar ~09:30 hay hueco)* → [día 24](plan-dia-24-barcelona.md).
 
 ---
 
-### 20:15 a 22:00 — Primera parada con música ★
+## ~17:45 a 18:45 — NN Bruc + check-in
 
-**Opción A (recomendada): Priscilla Cafè**  
-`Consell de Cent 273` · de 10:00 a 03:00
-
-Kitsch-pop, Lady Gaga, drag en vivo, decoración de película, ambiente bailable. Muy curioso y con **música de verdad**.
-
-**Opción B: Punto BCN** (si preferís pista grande)  
-`Muntaner 65` · domingo de 18:00 a 02:30
-
-Pop, hits, clásicos bailables; **hora punta de 22:00 a 01:00**.
-
-**En el momento:** empezad en Priscilla si hay animación o show; si está tranquilo, pasad a Punto (5 min a pie).
+| Hora | Acción |
+|------|--------|
+| ~17:45 | Mulhacén → **NN Bruc 113** (~25–35 min) |
+| ~18:00 | Ticket · **foto plaza** · inicio 24 h |
+| ~18:10 | **Check-in Carla** · pagar · **sello Bruc** |
+| ~18:15–18:45 | Maletas (~2 min) · ducha · cambio |
 
 ---
 
-### 22:00 a 00:45 — Bloque principal: bailar ★
+## 19:15 — Ruta Gaixample ★ · **modo A**
 
-Quedaos donde mejor suene; alternad si hace falta.
+**Objetivo:** bear / temático · barra · tapeo · bar hopping.  
+**Llegada hotel:** **máx. 01:30** ✅ — mejor coordinación lun + más descanso.  
+**Discotecas:** **omitidas** (de pago no) · no Arena / Moeem / Believe.
 
-| Local | Dirección | Horario dom | Por qué |
-|-------|-----------|-------------|---------|
-| **Punto BCN** ★ | Muntaner 65 | de 18:00 a 02:30 | Pista amplia, pop/hits; núcleo de la noche |
-| **Priscilla** ★ | Consell de Cent 273 | de 10:00 a 03:00 | Drag, kitsch; volver si hay show |
-| Bacon Bear | Casanova 64 | de 18:30 a 02:30 | Pop 80s/90s; plan B bear con música |
+### Orden modo A
 
-**En el momento:** de 22:00 a 01:00 es la franja fuerte en Punto. Si Priscilla tiene actuación, id y volved.
+| # | Hora | Local | Dirección | Nota |
+|---|------|-------|-----------|------|
+| 1 | 19:15–20:30 | **Honey Bears** ★ | Diputació 203 | Bear de moda |
+| 2 | 20:30–21:30 | **Bacon Bear** | Casanova 64 | Promos **Dom BBB** |
+| 3 | 21:30–22:45 | **Cena** | ver abajo | Tapas / rápido |
+| 4 | 22:45–00:15 | **La Chapelle** | Muntaner 67 | Cócteles baratos |
+| 5 | 00:15–01:15 | **Elvira** *o* **Punto** | Consell de Cent 275 / Muntaner 65 | Una parada → hotel 01:30 |
 
-**Punto BCN en breve:** bar-discoteca del Grupo Arena. Pop comercial y bailables (puede colar algún hit urbano, pero no es discoteca de reggaetón como Arena/Moeem). Entrada libre.
+**Truco barato:** caña / vermut / vino casa · promos Honey/Bacon.
+
+### Cena / picoteo *(cerca de la ruta · sin reserva habitual)*
+
+| Sitio | Dirección | Nota |
+|-------|-----------|------|
+| **Garage Beer Co** ★ | Consell de Cent **261** | Cerveza craft + tapas/bravas · **en medio** Consell · a pie del Gaixample |
+| **Bar Anita** | Consell de Cent **413** | Tapas + vermut · terraza · un poco más este |
+| **Priscilla** *(barra)* | zona Gaixample | Nachos/burger en barra si hay sitio · sin mesa show |
+| **TGB / Aloha / burritos** | Ronda Universitat | Rápido ~10–15 € · plan seguro |
+
+**Tiempo:** salid de Bacon ~21:30 → cena ~1 h → Chapelle. Si cola en Garage: TGB y seguís.
 
 ---
 
-### 00:45 a 01:15 — Vuelta al hotel
+## Cama
 
-**Opción A (recomendada):** a pie ~12 min.
-
-**Opción B:** taxi ~8–12 € si vais cansados o llueve.
-
-**Cama de 01:00 a 01:15.**
+Gaixample → hotel **~10–12 min a pie** (sin coche).  
+**Modo A → 01:30.**  
+Mañana lun: **[plan-dia-24-barcelona.md](plan-dia-24-barcelona.md)**.
 
 ---
 
 ## Enlaces
 
-- **Lunes 24** (Pabellons, Sagrada, Siurana): **[plan-dia-24-barcelona.md](plan-dia-24-barcelona.md)**
+- Lunes 24: **[plan-dia-24-barcelona.md](plan-dia-24-barcelona.md)**  
+- Interior: **[opciones/](opciones/)**
 
 ---
 
 ## Presupuesto orientativo
 
-| Concepto | Pareja | Por persona |
-|----------|--------|-------------|
-| Fai + parking QR | según web | — |
-| BSM 24 h | 10–28 € | 5–14 € |
-| Metro (2 × T-casual) | 26 € | 13 € |
-| Pedralbes | 0 € | 0 € |
-| Noche (copas + cena) | 90–130 € | 45–65 € |
-| Hotel Carla *(reservado)* | **173,28 €** | **86,64 €** |
-| Taxi vuelta (opcional) | 8–12 € | 4–6 € |
-| **Total día** *(sin Fai)* | **~299–369 €** | **~150–185 €** |
+| Concepto | Pareja |
+|----------|--------|
+| Mulhacén 2–2,5 h | ~8–12 € |
+| NN Bruc convenio · 24 h | **22 €** |
+| Pedralbes | 0 € |
+| Comida Fai | ~10–20 € |
+| Noche copas + cena | ~80–130 € |
+| Hotel | **173,28 €** |
 
 ---
 
 ## Checklist
 
-- [x] **Room Mate Carla** — 173,28 € · dom 23 → lun 24 · cama doble · pago en hotel
-- [ ] Fai 12:00–14:00 + QR parking (captura offline)
-- [ ] **Pedralbes dom:** taquilla al llegar · **sin reserva** · gratis ≥15:00
-- [ ] Confirmación Booking hotel en móvil (captura offline)
-- [ ] Check-in: confirmar **consigna lun 24** + pagar 173,28 €
-- [ ] 2 × T-casual al aparcar en BSM
-- [ ] Foto plaza parking BSM al aparcar
-- [ ] Mochila: agua + crema solar
-- [ ] Cena 19:00: TGB / Aloha / Burritos (o bocata)
-- [ ] Sábado 22: Instagram **Priscilla** / **Punto BCN** (show domingo 23)
-- [ ] Lun 24: ver **[plan-dia-24-barcelona.md](plan-dia-24-barcelona.md)**
+- [x] Hotel Carla · consigna lun ✅  
+- [x] Fai **tickets impresos** 12:00–14:00 + QR ✅  
+- [x] Etiqueta DGT **B** ✅  
+- [x] Parking: **NN Bruc** ✅  
+- [ ] Picnic Fai **al salir de Montserrat**  
+- [ ] Pedralbes gratis ≥15:00 · taquilla  
+- [ ] Foto plaza parking Bruc · sello recepción  
+- [x] Noche modo A · hotel **máx. 01:30** ✅  
+- [ ] Lun 24: [plan-dia-24-barcelona.md](plan-dia-24-barcelona.md)
