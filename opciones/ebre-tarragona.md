@@ -112,8 +112,10 @@ Peajes ~10–14 €. Vaciar nevera antes.
 
 ## Encaje viaje 23–27
 
-| Si… | Entonces |
-|-----|----------|
-| Priorat/Siurana llenan | Delta = **1 noche** salida hacia VLC |
-| Queréis agua/costa | **1–2 noches** Deltebre/Riumar |
-| Interior Teruel | No mezclar mismo día → [teruel-albarracin.md](teruel-albarracin.md) |
+| Si elegís… | Entonces |
+|------------|----------|
+| **Eje A** (este) | 1–2 noches interior + **1 noche Delta** · mié → VLC |
+| **Eje C** (Costa Blanca) | Lun noche aquí (Trabucador) · mar → Alicante kayak |
+| **Eje B** (Teruel) | No paséis por Delta · id a [teruel-albarracin.md](teruel-albarracin.md) |
+
+Detalle ejes → [README.md](README.md).

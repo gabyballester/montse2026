@@ -87,4 +87,5 @@ Calzado bueno · ropa baño · no con perros en pasarelas de rejilla (si aplica)
 | Valloré (Maestrazgo) | ~1,5–2 h → [teruel-maestrazgo.md](teruel-maestrazgo.md) |
 | Valencia | ~2–2,5 h desde Albarracín |
 
-**Idea 1–2 días:** Hoz + baño → noche Albarracín → Ebrón / pueblo → salir.
+**Idea 1–2 días:** Hoz + baño → noche Albarracín → Ebrón / pueblo → Valencia.  
+**Eje B** del viaje → [README.md](README.md).

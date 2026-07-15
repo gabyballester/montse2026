@@ -70,4 +70,5 @@ Bar Mirador de las Eras en el arranque (refresco / bocata si abre).
 | Albarracín | ~1,5–2 h |
 | Valencia | ~2,5–3 h |
 
-Ideal **medio día** Valloré + noche en Maestrazgo o seguir a Albarracín.
+Ideal **medio día** Valloré + noche en Maestrazgo o seguir a Albarracín.  
+**Eje B** del viaje → [README.md](README.md).

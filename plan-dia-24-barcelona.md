@@ -150,13 +150,19 @@ Si ya comisteis fuerte a las 11:30: solo agua + snack ligero y al coche.
 
 ---
 
-## Desde ~16:15 — Opciones ★
+## Desde ~16:15 — Elegir eje a Valencia ★
 
-El plan BCN **termina aquí**. A partir de sacar el coche:
+El plan BCN **termina aquí**. Sacáis el coche y elegís **un** camino:
 
-### → **[opciones/](opciones/)** *(elegir zona / ritmo)*
+| Eje | Resumen |
+|-----|---------|
+| **A Este** | Interior y/o **Delta** → Valencia (costa Catalunya) |
+| **B Teruel** | Interior → **pasarelas / pozas** → Valencia |
+| **C Costa Blanca** | 1 noche camino lun → **kayak mar** mar–mié → Valencia |
 
-Índice y prioridad calor: [opciones/README.md](opciones/README.md)
+### → **[opciones/README.md](opciones/README.md)** ★
+
+Costa Blanca (si eje C): [costa-blanca/README.md](costa-blanca/README.md)
 
 ---
 
