@@ -1,9 +1,9 @@
 # Zona · Altea – Calpe (Costa Blanca · agua)
 
 **Otro viaje / extensión** (no mezclar el mismo día con Jávea).  
-Jávea–Dénia → [costa-blanca-javea.md](costa-blanca-javea.md).  
-Comida/nevera → [logistica-comida-nevera.md](logistica-comida-nevera.md).  
-Reglas generales → [README.md](README.md).
+Jávea–Dénia → [javea-denia.md](javea-denia.md).  
+Comida/nevera → [../opciones/logistica-comida-nevera.md](../opciones/logistica-comida-nevera.md).  
+Índice costa → [README.md](README.md).
 
 ---
 

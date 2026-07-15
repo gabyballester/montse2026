@@ -1,12 +1,13 @@
 # Viaje Gabi + Julio · Montserrat → Priorat · **23–27 ago 2026**
 
-Empezad por aquí. En GitHub: clic en cada enlace (se abren en el navegador).
+Empezad por aquí. En GitHub: clic en cada enlace.
 
 ## Cómo leerlo
 
-1. **Días fijos BCN** → planes 23 y 24 (cerrados).  
-2. **Desde el lun ~16:15** → carpeta [opciones/](opciones/) (elegís zona según calor / ganas).  
-3. En calor: **agua · piscina · fresco bajo techo** antes que senderos largos.
+1. **Días fijos BCN** → planes 23 y 24.  
+2. **Tras Sagrada (mar–mié)** → [opciones/](opciones/) = **Catalunya** (+ Teruel).  
+3. **Costa Blanca** → carpeta aparte [costa-blanca/](costa-blanca/) = **otro viaje**, no mezclar con el 23–27.  
+4. En calor: **agua · piscina · fresco bajo techo** primero.
 
 ---
 
@@ -18,25 +19,34 @@ Empezad por aquí. En GitHub: clic en cada enlace (se abren en el navegador).
 | **Lun 24** | Mañana a la carta → Sagrada 12:15 → coche | [plan-dia-24-barcelona.md](plan-dia-24-barcelona.md) ★ |
 
 **Hotel:** Room Mate Carla · consigna ✅ · coche etiqueta **B** ✅  
-**Parking noche:** [NN Bruc 113](plan-dia-23-barcelona.md) · **22 €/24 h** (convenio hotel)
+**Parking noche:** NN Bruc 113 · **22 €/24 h** (convenio)
 
 ---
 
-## Opciones · tras Sagrada *(mar–mié)*
+## 1 · Opciones Catalunya *(viaje 23–27)*
 
-Índice con reglas de calor → **[opciones/README.md](opciones/README.md)**
+Índice y reglas de calor → **[opciones/README.md](opciones/README.md)**
 
 | Zona | Qué hay | Abrir |
 |------|---------|-------|
-| Siurana | Kayak pantano · piscina · toll corto · pueblo | [opciones/siurana.md](opciones/siurana.md) |
+| Siurana | Kayak pantano · piscina · toll corto | [opciones/siurana.md](opciones/siurana.md) |
 | Priorat | Cartuja · minas 16 °C · catas · A/C | [opciones/priorat.md](opciones/priorat.md) |
-| Montblanc / Espluga / Poblet | Cascada · murallas · monasterio · cueva | [opciones/montblanc-bages.md](opciones/montblanc-bages.md) |
-| **Delta Ebre** ★ | Playas · Trabucador · flamencos · dormir + comer | [opciones/ebre-tarragona.md](opciones/ebre-tarragona.md) |
-| Teruel Albarracín | Hoz / Ebrón cortos · pueblo | [opciones/teruel-albarracin.md](opciones/teruel-albarracin.md) |
-| Teruel Maestrazgo | Pasarelas Valloré cortas | [opciones/teruel-maestrazgo.md](opciones/teruel-maestrazgo.md) |
-| Altea – Calpe | Kayak Coloms + Ifach *(otro viaje)* | [opciones/costa-blanca-altea-calpe.md](opciones/costa-blanca-altea-calpe.md) |
-| Jávea – Dénia | Kayak Peces + Portitxol *(otro viaje)* | [opciones/costa-blanca-javea.md](opciones/costa-blanca-javea.md) |
+| Montblanc / Espluga / Poblet | Cascada · murallas · monasterio | [opciones/montblanc-bages.md](opciones/montblanc-bages.md) |
+| **Delta Ebre** ★ | Playas · Trabucador · flamencos | [opciones/ebre-tarragona.md](opciones/ebre-tarragona.md) |
+| Teruel Albarracín | Hoz / Ebrón cortos | [opciones/teruel-albarracin.md](opciones/teruel-albarracin.md) |
+| Teruel Maestrazgo | Pasarelas Valloré | [opciones/teruel-maestrazgo.md](opciones/teruel-maestrazgo.md) |
 | Comida / nevera | Super · tupper · sombra vs bar | [opciones/logistica-comida-nevera.md](opciones/logistica-comida-nevera.md) |
+
+---
+
+## 2 · Costa Blanca *(otro viaje)*
+
+Índice → **[costa-blanca/README.md](costa-blanca/README.md)**
+
+| Zona | Qué hay | Abrir |
+|------|---------|-------|
+| Altea – Calpe | Kayak Coloms + Ifach | [costa-blanca/altea-calpe.md](costa-blanca/altea-calpe.md) |
+| Jávea – Dénia | Kayak Peces + Portitxol | [costa-blanca/javea-denia.md](costa-blanca/javea-denia.md) |
 
 ---
 

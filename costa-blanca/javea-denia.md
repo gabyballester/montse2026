@@ -1,7 +1,8 @@
 # Zona · Jávea / Benitatxell / Dénia (Costa Blanca · agua)
 
-**Otro viaje / extensión.** Altea–Calpe → [costa-blanca-altea-calpe.md](costa-blanca-altea-calpe.md) (~35–45 min · otra base).  
-Comida → [logistica-comida-nevera.md](logistica-comida-nevera.md). Reglas → [README.md](README.md).
+**Otro viaje / extensión.** Altea–Calpe → [altea-calpe.md](altea-calpe.md) (~35–45 min · otra base).  
+Comida → [../opciones/logistica-comida-nevera.md](../opciones/logistica-comida-nevera.md).  
+Índice costa → [README.md](README.md).
 
 ---
 

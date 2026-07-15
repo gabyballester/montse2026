@@ -1,7 +1,8 @@
 # Logística · super / tupper / nevera
 
-Válido para **todo el viaje** (interior + Costa Blanca).  
-Docs costa: [altea-calpe](costa-blanca-altea-calpe.md) · [javea](costa-blanca-javea.md).
+Válido para **Catalunya** y **Costa Blanca**.  
+Costa: [Altea–Calpe](../costa-blanca/altea-calpe.md) · [Jávea–Dénia](../costa-blanca/javea-denia.md).  
+← [Opciones Catalunya](README.md) · [Inicio](../README.md)
 
 **Objetivo:** comida fría del día · cena flexible · con calor → **sombra / cubierto / A/C** antes que picnic al sol.
 
