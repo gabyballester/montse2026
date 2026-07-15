@@ -33,7 +33,7 @@ Detalle → **[opciones/README.md](opciones/README.md)**
 |-----|------|------|
 | **A Este** | Interior opcional → **Delta / costa** → Valencia | [Siurana](opciones/siurana.md) · [Priorat](opciones/priorat.md) · [Montblanc](opciones/montblanc-bages.md) · [Delta](opciones/ebre-tarragona.md) |
 | **B Teruel** | Interior → **Hoz / Valloré / Albarracín** → Valencia | [Siurana](opciones/siurana.md) · [Priorat](opciones/priorat.md) · [Albarracín](opciones/teruel-albarracin.md) · [Maestrazgo](opciones/teruel-maestrazgo.md) |
-| **C Costa Blanca** | Lun noche parada corta → **kayak mar** → Valencia | Parada + [costa-blanca/](costa-blanca/README.md) |
+| **C Costa Blanca** | **≥2 noches** base mar · kayak madrugando → Valencia | [costa-blanca/](costa-blanca/README.md) |
 
 **Comida / nevera:** [opciones/logistica-comida-nevera.md](opciones/logistica-comida-nevera.md)
 

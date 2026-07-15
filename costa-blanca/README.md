@@ -1,26 +1,26 @@
-# Costa Blanca · mar *(eje C del viaje 23–27)*
+# Costa Blanca · mar *(eje C · mín. 2 noches)*
 
-← [Inicio](../README.md) · Elegir eje → [opciones Catalunya](../opciones/README.md)
+← [Inicio](../README.md) · Elegir eje → [opciones](../opciones/README.md)
 
-Encaja en el viaje si elegís el **eje C**: lun 24 tarde parada 1 noche → **aquí a kayakear** → Valencia.
-
-También vale como escapada aparte otro mes.
-
-Solo **agua**: kayak / paddle cortos · snorkel · baño.  
-**Evitar** rutas a pie largas. Comer sombra / A/C / vistas. Dormir **A/C**.
+**Mínimo 2 noches** en la base (Altea–Calpe **o** Jávea–Dénia).  
+El día 1 de kayak toca **madrugar** (turnos ~08:30–10:00) → hay que dormir **ya en la costa** la noche de antes.
 
 ---
 
-## Encaje con el 23–27
+## Encaje 23–27 ★
 
 | Día | Qué |
 |-----|-----|
-| Lun 24 ~16:15 | Salís BCN → **1 noche** camino (Delta / Siurana / Montblanc) · ver [opciones](../opciones/README.md) eje C |
-| Mar 25 | Llegada base · kayak **día 1** (turno mañana) |
-| Mié 26 *(o mar tarde)* | Kayak **día 2** **o** baño/snorkel + vuelta Valencia |
-| Jue 27 | Si aún estáis · última mañana suave → VLC |
+| Lun 24 ~16:15 | Salís BCN → **ideal: llegar a base CB** (~3,5–5 h) · cena · **cama temprano** (= **noche 1**) |
+| Mar 25 | **Kayak / paddle día 1** madrugada · siesta A/C · (= **noche 2**) |
+| Mié 26 | **Kayak día 2** mañana **o** snorkel suave → **Valencia** tarde |
+| Jue 27 | Solo si alargáis (3ª noche) |
 
-Elegid **una** base: Altea–Calpe **o** Jávea–Dénia (~40 min entre sí · no mezclar mismo día).
+**Alternativa** (más justa): lun noche parada camino → mar tarde llegáis CB · **noches mar + mié** (= 2) · kayak mar tarde no · **primer kayak mié madrugada** · jueves 2º kayak o VLC.
+
+→ Preferid el esquema ★ (lun ya en costa).
+
+Elegid **una** base: no mezclar Altea y Jávea el mismo día (~40 min).
 
 ---
 
@@ -36,5 +36,5 @@ Elegid **una** base: Altea–Calpe **o** Jávea–Dénia (~40 min entre sí · n
 ### Reglas
 
 - Kayak / paddle **guiado** · ~2–3 h · no muy duros  
-- Reservar turnos **mañana** (menos calor)  
-- Dormir con **A/C** · piscina si cabe  
+- Reservar turnos **mañana** · noche previa en la misma base  
+- Dormir **A/C** · piscina si cabe · **≥2 noches**  

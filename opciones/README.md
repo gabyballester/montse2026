@@ -44,26 +44,32 @@ Misma base interior, salida por **oeste** (pasarelas, pozas, Albarracín) · no 
 
 ---
 
-### C · Bajada rápida → Costa Blanca · mar ★  
-**BCN lun 24 tarde → 1 noche (ver algo) → Costa Blanca kayak → Valencia**
+### C · Costa Blanca · mar ★ *(mín. 2 noches en la base)*  
+**BCN lun 24 → base Altea o Jávea · ≥2 noches · kayak madrugada → Valencia**
 
-Saltáis el interior profundo (Siurana/Priorat). Lun por la tarde dormís en un punto de camino (agua / fresco / A/C), martes (y mié si cabe) **kayak/paddle** en Costa Blanca, vuelta a Valencia.
+El **día 1 de aventura hay que madrugar** (turno ~08:30–10:00) → hace falta **dormir ya en la costa la noche anterior**.  
+Por eso: **mínimo 2 noches** en Altea–Calpe **o** Jávea–Dénia (no vale 1 noche suelta).
+
+| | |
+|---|---|
+| ★ **Recomendado** | Lun noche **ya en Costa Blanca** (= noche 1) · Mar kayak 1 · Mar noche (= noche 2) · Mié kayak 2 **o** vuelta VLC |
+| Alternativa | Lun noche parada camino · Mar tarde llegáis · **Mar + Mié noches** en CB (= 2) · jueves VLC *(más justo)* |
 
 | Paso | Dónde | Abrir |
 |------|-------|-------|
-| Lun ~16:15–noche | Parada 1 noche *(elegid una)* | abajo |
-| Mar–mié | Altea–Calpe **o** Jávea–Dénia | [../costa-blanca/](../costa-blanca/README.md) |
+| Lun ~16:15 | Salís BCN → **directo a base CB** (~3,5–5 h) **o** parada corta solo si aún dormís ≥2 noches allá | abajo |
+| Mar–mié | Kayak/paddle turnos **mañana** | [../costa-blanca/](../costa-blanca/README.md) |
 | Fin | Valencia | — |
 
-**Paradas lun 24 *(llegada tarde · 1 plan corto + cena + A/C)*:**
+**Si paráis lun noche en camino** *(solo con 2 noches CB después)*:
 
-| Opción noche 24 | Tiempo desde BCN | Por qué |
-|-----------------|------------------|---------|
-| **Delta / Deltebre–Riumar** | ~2 h 15–2 h 45 | Atardecer Trabucador · baño · [ebre-tarragona.md](ebre-tarragona.md) |
-| **Siurana / Cornudella** | ~2 h 15 | Piscina · pueblo · [siurana.md](siurana.md) |
-| **Montblanc** zona | ~1 h 15–1 h 30 | Cascada corto / murallas · [montblanc-bages.md](montblanc-bages.md) |
+| Parada lun *(opcional)* | Tiempo BCN | Luego |
+|-------------------------|------------|-------|
+| Delta / Riumar | ~2 h 30 | Mar mañana → CB · noches mar+mié |
+| Siurana | ~2 h 15 | Idem · trayecto más largo al mar |
+| Montblanc | ~1 h 30 | Idem |
 
-**Mar mañana** → Costa Blanca (~2–3 h desde Delta o ~3–3,5 h desde Siurana).  
+**Mejor calidad kayak:** saltad parada · lun noche **Jávea o Albir/Altea** · cena ligera · cama temprano · madrugón mar.  
 Índice mar: **[costa-blanca/README.md](../costa-blanca/README.md)**
 
 ---
@@ -74,7 +80,7 @@ Saltáis el interior profundo (Siurana/Priorat). Lun por la tarde dormís en un 
 |-----|----------|-------|---------------------------|
 | **A Este** | Interior + Delta + playa Ebre | Agua Delta · fresco interior | No (salvo otro viaje) |
 | **B Teruel** | Hoces · pasarelas · pueblo | Pozas frías · rutas cortas | No |
-| **C Costa Blanca** | Mar Alicante · cuevas kayak | Kayak mañana · A/C siesta | **Sí ★** |
+| **C Costa Blanca** | Mar Alicante · cuevas kayak | Kayak mañana · A/C siesta | **Sí · ≥2 noches ★** |
 
 ---
 

@@ -158,7 +158,7 @@ El plan BCN **termina aquí**. Sacáis el coche y elegís **un** camino:
 |-----|---------|
 | **A Este** | Interior y/o **Delta** → Valencia (costa Catalunya) |
 | **B Teruel** | Interior → **pasarelas / pozas** → Valencia |
-| **C Costa Blanca** | 1 noche camino lun → **kayak mar** mar–mié → Valencia |
+| **C Costa Blanca** | **≥2 noches** en base mar · kayak madrugando → Valencia |
 
 ### → **[opciones/README.md](opciones/README.md)** ★
 

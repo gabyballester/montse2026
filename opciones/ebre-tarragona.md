@@ -115,7 +115,7 @@ Peajes ~10–14 €. Vaciar nevera antes.
 | Si elegís… | Entonces |
 |------------|----------|
 | **Eje A** (este) | 1–2 noches interior + **1 noche Delta** · mié → VLC |
-| **Eje C** (Costa Blanca) | Lun noche aquí (Trabucador) · mar → Alicante kayak |
+| **Eje C** (Costa Blanca) | Parada lun opcional · luego **≥2 noches** kayak en Alicante → [../costa-blanca/](../costa-blanca/README.md) |
 | **Eje B** (Teruel) | No paséis por Delta · id a [teruel-albarracin.md](teruel-albarracin.md) |
 
 Detalle ejes → [README.md](README.md).
