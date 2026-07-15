@@ -1,9 +1,10 @@
 # Opciones · elegir camino de vuelta a Valencia
 
-**Viaje 23 → 27 ago.** BCN fijo: [día 23](../plan-dia-23-barcelona.md) · [día 24](../plan-dia-24-barcelona.md)  
+**Viaje 23 → 27 ago:** Montserrat · Fai · Pedralbes · Gaixample · **Sagrada** · luego zona(s) → Valencia.  
+BCN fijo: [día 23](../plan-dia-23-barcelona.md) · [día 24](../plan-dia-24-barcelona.md)  
 ← [Inicio](../README.md)
 
-Salís de BCN **~16:15 lun 24**. Hay que acabar en **Valencia**. Elegís **un solo eje** (no mezclar este + Teruel el mismo bloque).
+Salís de BCN **~16:15 lun 24**. Elegís **un solo eje** (no mezclar este + Teruel el mismo bloque).
 
 ---
 
@@ -46,7 +47,7 @@ Misma base interior, salida por **oeste** (pasarelas, pozas, Albarracín) · no 
 ### C · Bajada rápida → Costa Blanca · mar ★  
 **BCN lun 24 tarde → 1 noche (ver algo) → Costa Blanca kayak → Valencia**
 
-Saltáis el Priorat profundo. Lun por la tarde dormís en un punto de camino (agua / fresco / A/C), martes (y mié si cabe) **kayak/paddle** en Costa Blanca, vuelta a Valencia.
+Saltáis el interior profundo (Siurana/Priorat). Lun por la tarde dormís en un punto de camino (agua / fresco / A/C), martes (y mié si cabe) **kayak/paddle** en Costa Blanca, vuelta a Valencia.
 
 | Paso | Dónde | Abrir |
 |------|-------|-------|
@@ -71,7 +72,7 @@ Saltáis el Priorat profundo. Lun por la tarde dormís en un punto de camino (ag
 
 | Eje | Ambiente | Calor | Mar / kayak Costa Blanca |
 |-----|----------|-------|---------------------------|
-| **A Este** | Viñas + Delta + playa Ebre | Agua Delta · fresco Priorat | No (salvo otro viaje) |
+| **A Este** | Interior + Delta + playa Ebre | Agua Delta · fresco interior | No (salvo otro viaje) |
 | **B Teruel** | Hoces · pasarelas · pueblo | Pozas frías · rutas cortas | No |
 | **C Costa Blanca** | Mar Alicante · cuevas kayak | Kayak mañana · A/C siesta | **Sí ★** |
 

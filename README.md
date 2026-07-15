@@ -1,11 +1,14 @@
-# Viaje Gabi + Julio · **23–27 ago 2026**
+# Viaje Gabi + Julio · Montserrat · Sagrada · zonas · **23–27 ago 2026**
 
 Empezad por aquí. En GitHub: clic en cada enlace.
 
+**Eje fijo:** Montserrat → Sant Miquel del Fai → Pedralbes → Gaixample → **Sagrada Família**.  
+**Después:** elegís zona(s) de camino a Valencia (este, Teruel o Costa Blanca).
+
 ## Cómo leerlo
 
-1. **Días fijos BCN** → planes 23 y 24.  
-2. **Lun ~16:15** → elegís **un eje** de vuelta a Valencia → [opciones/README.md](opciones/README.md).  
+1. **Días fijos** → planes 23 y 24 (Montserrat / BCN / Sagrada).  
+2. **Lun ~16:15** → elegís **un eje** hacia Valencia → [opciones/README.md](opciones/README.md).  
 3. En calor: **agua · piscina · fresco bajo techo** primero.
 
 ---
