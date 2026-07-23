@@ -7,7 +7,7 @@ Rutas a pie en la montaña **antes** del dom 23 (ese día salís ~10:00 hacia Fa
 
 | Ruta | Estado | Abrir |
 |------|--------|-------|
-| **Sant Jeroni** ★ (cim) | Obligatoria | [sant-jeroni.md](sant-jeroni.md) |
+| **Sant Jeroni** ★ (cim) | Obligatoria · **jue 20/08** mañana | [sant-jeroni.md](sant-jeroni.md) |
 
 ## Transportes en la montaña *(no confundir)*
 
