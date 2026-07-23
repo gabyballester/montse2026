@@ -10,6 +10,7 @@ Rutas a pie en la montaña **antes** del dom 23 (ese día salís ~10:00 hacia Fa
 | **Sant Jeroni** ★ (cim) | Obligatoria · **jue 20/08** mañana | [sant-jeroni.md](sant-jeroni.md) |
 | **Santa Cova** | Posible · a pie · funicular **cerrado** (jul 2026) | [santa-cova.md](santa-cova.md) |
 | **Turó de l'Ermità** | Posible · **vie 21 / sáb 22** mañana · track al revés | [turo-ermita.md](turo-ermita.md) |
+| **Passeig + Ermites** | Posible · plaza · basílica · Sant Miquel | [passeig-ermites.md](passeig-ermites.md) |
 | **Piscinas** zona | **Monistrol** ★ · **Collbató** | [piscinas.md](piscinas.md) |
 
 ## Transportes en la montaña *(no confundir)*
