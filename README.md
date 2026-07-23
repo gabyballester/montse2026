@@ -2,14 +2,24 @@
 
 Empezad por aquí. En GitHub: clic en cada enlace.
 
-**Eje fijo:** Montserrat → Sant Miquel del Fai → Pedralbes → Gaixample → **Sagrada Família**.  
+**Eje fijo:** Montserrat *(rutas)* → Sant Miquel del Fai → Pedralbes → Gaixample → **Sagrada Família**.  
 **Después:** elegís zona(s) de camino a Valencia (este, Teruel o Costa Blanca).
 
 ## Cómo leerlo
 
-1. **Días fijos** → planes 23 y 24 (Montserrat / BCN / Sagrada).  
-2. **Lun ~16:15** → elegís **un eje** hacia Valencia → [opciones/README.md](opciones/README.md).  
-3. En calor: **agua · piscina · fresco bajo techo** primero.
+1. **Montserrat · rutas** → [montserrat/](montserrat/) *(antes del dom 23)*.  
+2. **Días fijos BCN** → planes 23 y 24 (Fai / Sagrada).  
+3. **Lun ~16:15** → elegís **un eje** hacia Valencia → [opciones/README.md](opciones/README.md).  
+4. En calor: **agua · piscina · fresco bajo techo** primero.
+
+---
+
+## Montserrat · rutas *(antes del 23)*
+
+| Ruta | Abrir |
+|------|-------|
+| Índice | [montserrat/README.md](montserrat/README.md) |
+| **Sant Jeroni** ★ | [montserrat/sant-jeroni.md](montserrat/sant-jeroni.md) |
 
 ---
 
