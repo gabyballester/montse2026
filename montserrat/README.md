@@ -10,6 +10,7 @@ Rutas a pie en la montaña **antes** del dom 23 (ese día salís ~10:00 hacia Fa
 | **Sant Jeroni** ★ (cim) | Obligatoria · **jue 20/08** mañana | [sant-jeroni.md](sant-jeroni.md) |
 | **Santa Cova** | Posible · a pie · funicular **cerrado** (jul 2026) | [santa-cova.md](santa-cova.md) |
 | **Turó de l'Ermità** | Posible · **vie 21 / sáb 22** mañana · track al revés | [turo-ermita.md](turo-ermita.md) |
+| **Piscinas** zona | **Monistrol** ★ · **Collbató** | [piscinas.md](piscinas.md) |
 
 ## Transportes en la montaña *(no confundir)*
 
@@ -28,3 +29,4 @@ Santa Cova es **hacia abajo** desde el monestir.
 - Calzado de monte · agua · crema · gorra  
 - Verano: madrugad lo que podáis; el funicular **no abre antes de ~10:00**  
 - Comprobar horario/precio el día antes: [cremallerademontserrat.cat](https://www.cremallerademontserrat.cat/) / taquilla funicular  
+- **Desayuno madrugada:** el buffet/hotel suele abrir **tarde** → el **día antes**, super: desayuno + fruta/frutos secos + agua para el camino  

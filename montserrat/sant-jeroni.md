@@ -59,11 +59,20 @@ Track: [Wikiloc Sant Jeroni](https://es.wikiloc.com/rutas-senderismo/sant-jeroni
 
 ## Logística · jueves 20 ago ★
 
+### Desayuno · día antes ★
+
+El buffet del alojamiento **suele abrir tarde** para un plan madrugador.  
+**Mié 19 tarde/noche:** super → desayuno + snack + agua listos para el jueves.
+
+| Lista mínima | Yogur / bollería / pan · **fruta** · **frutos secos** · agua **1,5 L**/pax · algo salado si queréis |
+
+### Reloj
+
 | Hora | Qué |
 |------|-----|
 | **07:00** | Despertar |
-| **07:30–08:00** | Desayuno |
-| **08:00–09:30** | Mochila · **agua 1,5 L**/pax · crema · calzado monte · snack |
+| **07:15–07:40** | Desayuno **del super** (habitación) · **sin esperar buffet** |
+| **07:40–09:30** | Mochila · **agua 1,5 L**/pax · crema · calzado monte · snack camino |
 | **09:30–09:45** | A estación **inferior** Funicular Sant Joan |
 | **~10:00** | Subida funicular (primera / primeras) |
 | **10:10** | Inicio caminata → Sant Jeroni |
@@ -106,9 +115,9 @@ Meta: **cima antes de mediodía** — en agosto el calor es el mayor riesgo.
 ## Qué llevar
 
 - [ ] Calzado monte  
-- [ ] Agua **1,5 L**/pax mínimo  
+- [ ] Agua **1,5 L**/pax mínimo *(llenada la noche antes)*  
 - [ ] Crema · gorra · gafas  
-- [ ] Snack  
+- [ ] Snack: **fruta · frutos secos** (del super)  
 - [ ] E-ticket i/v **8,75 €** ×2 *(o taquilla)*  
 - [ ] Track Wikiloc offline  
 - [ ] Móvil cargado  
@@ -122,9 +131,11 @@ Meta: **cima antes de mediodía** — en agosto el calor es el mayor riesgo.
 - [ ] Buscador horarios FGC · funicular **20/08** · anotar 1ª/última  
 - [ ] Meteo Montserrat jueves  
 - [ ] Comprar e-tickets i/v **o** efectivo/tarjeta para taquilla  
+- [ ] **Super:** desayuno jueves + fruta + frutos secos + agua  
 
 ### Jue 20 mañana
 
+- [ ] Desayuno del super *(no esperar buffet)*  
 - [ ] Primera del funicular  
 - [ ] Cima antes de las 12:00  
 - [ ] Funicular vuelta con margen  

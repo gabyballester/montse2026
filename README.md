@@ -22,6 +22,7 @@ Empezad por aquí. En GitHub: clic en cada enlace.
 | **Sant Jeroni** ★ | [montserrat/sant-jeroni.md](montserrat/sant-jeroni.md) |
 | **Santa Cova** | [montserrat/santa-cova.md](montserrat/santa-cova.md) |
 | **Turó de l'Ermità** | [montserrat/turo-ermita.md](montserrat/turo-ermita.md) |
+| **Piscinas** | [montserrat/piscinas.md](montserrat/piscinas.md) |
 
 ---
 

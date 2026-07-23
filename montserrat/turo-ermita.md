@@ -84,15 +84,42 @@ El track Wikiloc sube primero por la pista desde Agulles y luego sigue hacia el 
 
 ## Logística · timings ★ *(no alargar)*
 
-Meta: **coche de vuelta ~10:30–11:00** → resto del día libre (Santa Cova, monestir, piscina, siesta).
+Meta: **coche de vuelta ~10:30–11:00** → resto del día libre (sombra / monestir / **piscina Monistrol** opcional).
+
+### Piscina *(si queréis agua después)*
+
+No hay piscina en Can Prat ni en el monestir. La opción útil en el valle:
+
+| | |
+|---|---|
+| **Cuál** | **Piscina municipal Monistrol de Montserrat** |
+| **Dónde** | Passeig Germans la Salle, s/n · [ficha ayuntamiento](https://www.monistroldemontserrat.cat/serveis-municipals/179-equipaments/1834-piscina-municipal.html) |
+| **En el mapa** | Entre Can Prat y el monestir (pueblo abajo) · **~19 min** desde Agulles · **~17 min** desde monestir |
+| **Horario verano tip.** | **11:00–20:00** · temporada ~jun–sep *(confirmar 2026 en web)* |
+| **Entrada día 2026** | Laborables adulto **8 €** · sáb/festivo **9 €** ([tarifas](https://www.monistroldemontserrat.cat/continguts/opertura-de-la-piscina-municipal-temporada-2026.html)) |
+| **Tel.** | 673 121 337 |
+
+Encaja tras la ruta: volvéis ~10:45 → ducha rápida / snack → piscina desde **11:00**. No obligatorio.  
+Más detalle → [piscinas.md](piscinas.md) *(Monistrol ★ · Collbató)*.
+
+### Desayuno · día antes ★
+
+El desayuno del alojamiento **casi seguro abre tarde** para salir a las 07:45.  
+**No depender de él** el día de la ruta.
+
+| Cuándo | Qué |
+|--------|-----|
+| **Tarde / noche anterior** | Super (Monistrol / cerca): desayuno + camino |
+| Lista mínima | Yogur / bollería / pan + algo salado · **fruta** · **frutos secos** · **agua** (1 L/pax ya llena) · café/té si podéis |
+| Mañana | Desayunáis en habitación / coche · **sin esperar buffet** |
 
 ### Reloj tipo · mañana 21 o 22
 
 | Hora | Qué | Tope |
 |------|-----|------|
 | **07:00** | Despertar | — |
-| **07:15–07:35** | Desayuno rápido | 20 min |
-| **07:35–07:45** | Mochila · agua · calzado · track offline | 10 min |
+| **07:10–07:30** | Desayuno **del super** (habitación) | 20 min |
+| **07:30–07:45** | Mochila · agua · calzado · track offline · snack camino | 15 min |
 | **07:45** | Salida en coche → Can Prat (**~22 min**) | — |
 | **~08:10** | Parking · empezar a caminar | **≤08:15** |
 | **08:15–09:15** | Subida (revés o i/v) · ritmo cómodo | ~60 min |
@@ -146,8 +173,9 @@ Si a las **09:45** aún no habéis empezado a bajar → bajad ya (calor).
 ## Qué llevar
 
 - [ ] Calzado monte (suela buena · tramo de roca)  
-- [ ] Agua **1 L**/pax *(no hay fuentes fiables en ruta)*  
-- [ ] Crema · gorra · snack corto  
+- [ ] Agua **1 L**/pax *(llenada la noche antes)*  
+- [ ] Crema · gorra  
+- [ ] Snack camino: **fruta · frutos secos** (del super)  
 - [ ] Wikiloc **offline** + invertir ruta si Plan A  
 - [ ] Maps al parking (Agulles o final del track)  
 
@@ -157,6 +185,7 @@ Si a las **09:45** aún no habéis empezado a bajar → bajad ya (calor).
 
 ### Día anterior
 
+- [ ] **Super:** desayuno mañana + fruta + frutos secos + agua  
 - [ ] Meteo · viento / tormenta  
 - [ ] Noticias Montserrat · ¿caminos abiertos?  
 - [ ] Abrir Wikiloc · anotar **inicio y final** en el mapa · decidir Plan A o B  
@@ -164,6 +193,7 @@ Si a las **09:45** aún no habéis empezado a bajar → bajad ya (calor).
 
 ### Mañana de la ruta
 
+- [ ] Desayuno del super *(no esperar buffet)*  
 - [ ] Salida a pie **≤08:15**  
 - [ ] Cima **≤20 min**  
 - [ ] Coche **~10:30–11:00**  
