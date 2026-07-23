@@ -14,10 +14,25 @@ Inicio Maps (asfalto → pista / GR 4): [Carrer de les Agulles · Can Prat](http
 ## Qué es
 
 Cima corta del reto **100 Cims FEEC** · **595 m** · Marganell / Castellbell i el Vilar · Parc Rural / entorno Montserrat.  
-Casi todo por **pista** (tramo GR 4 / Camí Ignasià) + **sendero corto** + **pequeña grimpada** fácil a la cima (bajar sentados si hace falta).  
+Casi todo por **pista** (tramo GR 4 / Camí Ignasià) + **sendero corto** + unos metros finales por **roca con las manos** (ver abajo).  
 No hay funicular ni cremallera: **coche + a pie**.
 
 Ficha oficial: [FEEC · Turó de l'Ermità](https://www.feec.cat/activitats/100-cims/cim/turo-de-lermita/)
+
+---
+
+## “Grimpada corta” · qué significa ★
+
+**No es escalada.** No hace falta cuerda, arnés, casco, crampones ni material.
+
+En catalán/senderismo, *grimpada* = **trepar un tramo corto de roca usando manos y pies**, como subir un bloque o un escalón alto de piedra. Aquí:
+
+- Unos **metros** justo antes de la cima  
+- Autores: **sin dificultad** · “pequeña grimpada fácil”  
+- Bajada: mucha gente lo hace **sentada / de culo** para ir seguros  
+- Calzado de monte con suela (no chanclas) · manos libres  
+
+Si ese día la roca está **mojada o muy resbaladiza** y no os apetece: podéis llegar a la base, disfrutar vistas desde abajo y volver — la ruta sigue siendo válida como paseo.
 
 ---
 
@@ -27,13 +42,11 @@ Ficha oficial: [FEEC · Turó de l'Ermità](https://www.feec.cat/activitats/100-
 |------|--------|--------|
 | Cima **595 m** · 100 Cims FEEC | ✅ | [FEEC](https://www.feec.cat/activitats/100-cims/cim/turo-de-lermita/) · Wikipedia |
 | Track Wikiloc **6,58 km** · **+258 m** | ✅ Listado Wikiloc | [ruta 107498566](https://es.wikiloc.com/rutas-senderismo/turo-de-lermita-100-cims-feec-107498566) |
-| Ganancia neta Agulles (~400 m) → cima | ~**195 m** | Coincide con nota vuestra · altitud FEEC |
+| Ganancia neta Agulles (~400 m) → cima | ~**195 m** | Nota vuestra · altitud FEEC |
 | Inicio asfalto → pista · Carrer les Agulles | ✅ | [Maps](https://goo.gl/maps/t4iewnWFWXcmxcV47) · Can Prat / Sant Cristòfol |
-| Dificultad fácil · grimpada corta | ✅ | Autor Wikiloc · opiniones · [Rafa Yanes](https://rafayanes.com/ruta-turo-de-lermita-595-m-els-100-cims/) |
+| Finales por roca · **sin material** | ✅ | Autor Wikiloc · opiniones · [Rafa Yanes](https://rafayanes.com/ruta-turo-de-lermita-595-m-els-100-cims/) |
 | Tiempo movimiento tip. | **~1,5–2 h** + fotos | Ritmo cómodo · 6,6 km |
-| Coche Monestir → Can Prat | **~15–25 min** | ~10 km por carretera de montaña (estim.) |
-
-⚠️ Si en el móvil os sale “22 m” u otra cifra rara: en el listado oficial es **6,58 km** (no 22 m).
+| Coche Monestir → Agulles | **~20–22 min** ★ | Vuestra nota **22 min** · OSRM **~19 min / 10,4 km** |
 
 ---
 
@@ -42,10 +55,10 @@ Ficha oficial: [FEEC · Turó de l'Ermità](https://www.feec.cat/activitats/100-
 | | |
 |---|---|
 | **Cima** | Turó de l'Ermità **595 m** |
-| **Distancia** | **6,58 km** (track Wikiloc) |
-| **Desnivel +** | **~258 m** (Wikiloc) · ~195 m netos a la cima |
+| **A pie** | **6,58 km** · **+258 m** (Wikiloc) · ~195 m netos a la cima |
+| **Coche Monestir → inicio** | **~22 min** · ~10 km |
 | **Tiempo a pie** | **1,5–2 h** movimiento · **+15–20 min** cima ★ tope |
-| **Dificultad** | Fácil · pista + grimpada corta |
+| **Dificultad** | Fácil · pista + unos metros de roca **sin material** |
 | **Parking** | Fin de asfalto **Carrer de les Agulles** *(o el otro extremo si vais al revés — ver abajo)* |
 | **Mejor franja** | Salida a pie **≤08:30** en agosto |
 
@@ -80,8 +93,8 @@ Meta: **coche de vuelta ~10:30–11:00** → resto del día libre (Santa Cova, m
 | **07:00** | Despertar | — |
 | **07:15–07:35** | Desayuno rápido | 20 min |
 | **07:35–07:45** | Mochila · agua · calzado · track offline | 10 min |
-| **07:45** | Salida en coche hacia Can Prat | — |
-| **~08:05–08:15** | Parking · empezar a caminar | **≤08:15** |
+| **07:45** | Salida en coche → Can Prat (**~22 min**) | — |
+| **~08:10** | Parking · empezar a caminar | **≤08:15** |
 | **08:15–09:15** | Subida (revés o i/v) · ritmo cómodo | ~60 min |
 | **09:15–09:35** | **Cima · fotos · snack** | **máx. 20 min** ★ |
 | **09:35–10:30** | Bajada al coche | ~55 min |
@@ -106,8 +119,8 @@ Si a las **09:45** aún no habéis empezado a bajar → bajad ya (calor).
 1. **Carrer de les Agulles** · fin de asfalto · marcas **GR 4**.  
 2. Pista cómoda subiendo · Montserrat de frente · el turó se ve pequeño delante.  
 3. Casi bajo el turó: **sendero a la izquierda** → base rocosa.  
-4. **Grimpada corta** fácil → cima **595 m** · vistas norte.  
-5. Bajar la roca (sentados si hace falta) → pista.  
+4. Unos metros de **roca con las manos** (sin material) → cima **595 m** · vistas norte.  
+5. Bajar la roca (**sentados** si preferís) → pista.  
 6. Seguir hacia cruce **GR 4 / Camí Ignasià** → pista abajo → **punto final** del track.
 
 *(Al revés: mismos tramos en orden inverso.)*
@@ -120,7 +133,7 @@ Si a las **09:45** aún no habéis empezado a bajar → bajad ya (calor).
 |--------|----------|-----------|
 | **Calor agosto** | Tramos expuestos arriba | Salir **≤08:15** · agua · gorra · no alargar cima |
 | **Plan Alfa / incendios** | Cierran caminos del parque | [Noticias Montserrat](https://www.montserratvisita.com/es/actualidad/noticias) ese día · si cierra monte → **aplazad** |
-| **Grimpada / cuerda** | Algunas variantes llevan cuerda; la vuestra es fácil | Manos libres · bajar sentados · no forzar si mojado |
+| **Roca final** | Resbala si mojada · alguna variante ajena lleva cuerda | La vuestra: **sin material** · bajar sentados · si duda, no subir el último metro |
 | **Orientación al revés** | Confundir cruce a la cima | Track **offline** · no improvisar sin GPS |
 | **1 coche + ruta lineal** | Acabáis lejos del parking | Verificar extremos en mapa **o** Plan B i/v |
 | **Encadenar con Sant Jeroni** | Piernas + calor | **No** el mismo día |
@@ -132,7 +145,7 @@ Si a las **09:45** aún no habéis empezado a bajar → bajad ya (calor).
 
 ## Qué llevar
 
-- [ ] Calzado monte (grimpada)  
+- [ ] Calzado monte (suela buena · tramo de roca)  
 - [ ] Agua **1 L**/pax *(no hay fuentes fiables en ruta)*  
 - [ ] Crema · gorra · snack corto  
 - [ ] Wikiloc **offline** + invertir ruta si Plan A  
