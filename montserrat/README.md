@@ -9,6 +9,7 @@ Rutas a pie en la montaña **antes** del dom 23 (ese día salís ~10:00 hacia Fa
 |------|--------|-------|
 | **Sant Jeroni** ★ (cim) | Obligatoria · **jue 20/08** mañana | [sant-jeroni.md](sant-jeroni.md) |
 | **Santa Cova** | Posible · a pie · funicular **cerrado** (jul 2026) | [santa-cova.md](santa-cova.md) |
+| **Turó de l'Ermità** | Posible · **vie 21 / sáb 22** mañana · track al revés | [turo-ermita.md](turo-ermita.md) |
 
 ## Transportes en la montaña *(no confundir)*
 
@@ -19,7 +20,8 @@ Rutas a pie en la montaña **antes** del dom 23 (ese día salís ~10:00 hacia Fa
 | **Funicular Santa Cova** | Monestir → plaza Rosari (luego a pie a la capilla) | **Fuera de servicio** jul 2026 · ir a pie |
 
 Mapa mental: **Monestir** → arriba **Sant Joan** → **Sant Jeroni**.  
-Santa Cova es **hacia abajo** desde el monestir (otro sitio).
+Santa Cova es **hacia abajo** desde el monestir.  
+**Turó de l'Ermità** es **cara norte** · coche a **Can Prat** (no sale del monestir a pie).
 
 ## Reglas comunes
 
