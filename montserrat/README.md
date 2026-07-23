@@ -8,6 +8,7 @@ Rutas a pie en la montaña **antes** del dom 23 (ese día salís ~10:00 hacia Fa
 | Ruta | Estado | Abrir |
 |------|--------|-------|
 | **Sant Jeroni** ★ (cim) | Obligatoria · **jue 20/08** mañana | [sant-jeroni.md](sant-jeroni.md) |
+| **Santa Cova** | Posible · a pie · funicular **cerrado** (jul 2026) | [santa-cova.md](santa-cova.md) |
 
 ## Transportes en la montaña *(no confundir)*
 
@@ -15,9 +16,10 @@ Rutas a pie en la montaña **antes** del dom 23 (ese día salís ~10:00 hacia Fa
 |-----|--------|-------|
 | **Cremallera** | Monistrol / valle → **Monestir** | Tren cremallera que sube al monasterio |
 | **Funicular de Sant Joan** | **Monestir** → **Sant Joan** (Pla de les Taràntules ~1000 m) | El que usáis para empezar Sant Jeroni |
-| Funicular Santa Cova | Monestir → Santa Cova | Otro; no hace falta para Sant Jeroni |
+| **Funicular Santa Cova** | Monestir → plaza Rosari (luego a pie a la capilla) | **Fuera de servicio** jul 2026 · ir a pie |
 
-Mapa mental: **Monestir** (base) → funicular arriba a **Sant Joan** → caminar a **Sant Jeroni** (1236 m).
+Mapa mental: **Monestir** → arriba **Sant Joan** → **Sant Jeroni**.  
+Santa Cova es **hacia abajo** desde el monestir (otro sitio).
 
 ## Reglas comunes
 
