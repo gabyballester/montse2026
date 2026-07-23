@@ -126,7 +126,7 @@ Meta: **cima antes de mediodía** — en agosto el calor es el mayor riesgo.
 ### Jue 20 mañana
 
 - [ ] Primera del funicular  
-- [ ] Cima &lt;12:00  
+- [ ] Cima antes de las 12:00  
 - [ ] Funicular vuelta con margen  
 
 ### Plan B si no se puede el 20
